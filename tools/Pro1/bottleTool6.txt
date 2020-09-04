@@ -1,0 +1,28 @@
+{
+    "libName": "EdgeDetectTool",
+    "toolIsPre":0,
+    "toolRelyNums":[1],
+    "selectPointCount":30,
+    "blurWidth":5,
+    "colorChange":1,
+    "edgeThreshold":10,
+    "selectionMethod":90,
+    "blurLength":3,
+    "edgeDepth":0,
+    "minLength":10,
+    "maxLength":0,
+    "angleDiffer":1,
+    "area":[800,1350,1600,1350,800,1450,1600,1450],
+    "detectRect": {
+        "extRectX": 800,
+        "extRectY": 1350,
+        "extRectWidth": 800,
+        "extRectHeight": 100
+    },
+    "centerX":550,
+    "centerY":1115,
+    "templatePointX":550,
+    "templatePointY":1115,
+    "sampleImageWidth":2456,
+    "sampleImageHeight":2085
+}

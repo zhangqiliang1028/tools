@@ -1,0 +1,19 @@
+{
+    "libName": "ArcDetectTool",
+    "toolIsPre":0,
+    "toolRelyNums":[1],
+    "selectPointCount":30,
+    "blurWidth":3,
+    "colorChange":1,
+    "edgeThreshold":10,
+    "selectionMethod":0,
+    "blurLength":2,
+    "depthThreshold":0,
+    "detectArea":[1730,870,120,40,210,330],
+    "centerX":550,
+    "centerY":1115,
+    "templateArea":[1730,870,120,40,210,330],
+    "templatePointX":550,
+    "templatePointY":1115
+}
+

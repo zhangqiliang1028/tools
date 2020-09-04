@@ -1,0 +1,8 @@
+{
+    "libName": "GreyChangeTool",
+    "toolIsPre":1,
+    "threshold" : 100,
+    "d1":1,
+    "d2":1.3
+}
+        

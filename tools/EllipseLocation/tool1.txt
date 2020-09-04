@@ -1,0 +1,39 @@
+{
+    "libName": "FeatureLocationTool",
+    "toolIsPre":0,
+    "TemplateRect": {
+        "TemplatePosition": {
+           "detectRectX0": 560,
+           "detectRectY0": 210,
+           "detectRectX1": 560,
+           "detectRectY1": 280,
+           "detectRectX2": 800,
+           "detectRectY2": 280,
+           "detectRectX3": 800,
+           "detectRectY3": 210
+        },
+        "extRectX": 560,
+        "extRectY": 210,
+        "extRectWidth": 240,
+        "extRectHeight": 70
+    },
+    "searchRect": {
+        "searchRectX0": 0,
+        "searchRectY0": 0,
+        "searchRectX1": 0,
+        "searchRectY1": 600,
+        "searchRectX2": 1600,
+        "searchRectY2": 600,
+        "searchRectX3": 1600,
+        "searchRectY3": 0
+    },
+    "toolRelyNums":[],
+    "algoStrategy": 0,
+    "angleRange": 60,
+    "sampleImageWidth":1600,
+    "sampleImageHeight":1200,
+    "scoreLowThreshold": 80,
+    "scoreTopThreshold": 100,
+    "sensiLowThreshold": 60,
+    "sensiTopThreshold": 180
+}

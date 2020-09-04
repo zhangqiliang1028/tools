@@ -1,0 +1,20 @@
+{
+    "libName": "CircleDetectTool",
+    "toolIsPre":0,
+    "toolRelyNums":[1],
+    "selectPointCount":30,
+    "blurWidth":3,
+    "colorChange":1,
+    "edgeThreshold":10,
+    "selectionMethod":0,
+    "blurLength":2,
+    "depthThreshold":0,
+    "score":0,
+    "detectArea":[1730,870,120,40],
+    "centerX":550,
+    "centerY":1115,
+    "templateArea":[1730,870,120,40],
+    "templatePointX":550,
+    "templatePointY":1115
+}
+

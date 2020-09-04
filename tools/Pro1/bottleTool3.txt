@@ -1,0 +1,17 @@
+{
+    "libName": "LineDetectTool",
+    "toolIsPre":0,
+    "detectRect": {
+        "extRectX": 800,
+        "extRectY": 1350,
+        "extRectWidth": 800,
+        "extRectHeight": 100
+    },
+    "toolRelyNums":[1],
+    "centerX":550,
+    "centerY":1115,
+    "templatePointX":550,
+    "templatePointY":1115,
+    "sampleImageWidth":2456,
+    "sampleImageHeight":2085
+}

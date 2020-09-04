@@ -1,0 +1,24 @@
+{
+    "libName": "DisperseEdgeDetectTool",
+    "toolIsPre":0,
+    "toolRelyNums":[1],
+    "selectPointCount":7,
+    "blurWidth":5,
+    "colorChange":1,
+    "edgeThreshold":20,
+    "selectionMethod":0,
+    "blurLength":2,
+    "depthThreshold":0,
+    "roiHeight":40,
+    "pointnumThreshold":2,
+    "minLength":10,
+    "maxLength":0,
+    "angleDiffer":10,
+    "detectArea":[1100,801,1500,801],
+    "centerX":550,
+    "centerY":1115,
+    "templateArea":[600,801,1000,801],
+    "templatePointX":550,
+    "templatePointY":1115
+}
+

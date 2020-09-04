@@ -1,0 +1,6 @@
+{
+    "libName": "DistanceMeasureTool",
+    "toolIsPre":0,
+    "type":0,
+    "toolRelyNums":[2,3]
+}

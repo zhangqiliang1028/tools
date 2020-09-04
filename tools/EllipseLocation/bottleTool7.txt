@@ -1,0 +1,21 @@
+{
+    "libName": "EllipseLocationTool",
+    "toolIsPre":0,
+    "toolRelyNums":[1],
+    "edgeDimension":3,      
+    "edgeThreshold":40,       
+    "maxRadius":1000,          
+    "minRadius":20,         
+    "maxRoundness":10,      
+    "minRoundness":0.2,   
+    "distanceThreshold":2,   
+    "score":60,          
+    "selectType":1,         
+    "detectArea":[300,500,300,1800,2000,500,2000,1800],
+    "centerX":550,
+    "centerY":1115,
+    "templateArea":[300,500,300,1800,2000,500,2000,1800],
+    "templatePointX":550,
+    "templatePointY":1115
+}
+
